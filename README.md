@@ -2,7 +2,7 @@
 
 *Below is a list of known token service providers that support BLD. If you know of any additional providers, then please comment them in and we will accept your changes. Please include a link to their site.*
 
-1. Exchanges so new developers and users can join the ecosystem. BLD is required. 
+1. Exchanges so new developers and users can join the ecosystem. 
 - [CoinList](https://coinlist.co/pro)
 - [Crescent](https://crescent.network/)
 - [Huobi](https://www.huobi.com/)
