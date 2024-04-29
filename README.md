@@ -9,7 +9,6 @@
 - [Osmosis](https://app.osmosis.zone/)
 
 2. Explorers
-- [BigDipper](https://bigdipper.live/agoric)
 - [NGExplorer](https://agoric.explorers.guru/)
 - [Ping Dashboard](https://ping.pub/agoric)
 
